@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pj_name: MyString
+  client_name: MyString
+  status: 1
+  order_date: 2022-06-19
+  price: 
+  memo: MyText
+
+two:
+  pj_name: MyString
+  client_name: MyString
+  status: 1
+  order_date: 2022-06-19
+  price: 
+  memo: MyText
